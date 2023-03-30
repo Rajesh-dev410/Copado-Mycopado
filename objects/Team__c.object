@@ -155,8 +155,9 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Team</label>
     <nameField>
+        <displayFormat>MI-{0000}</displayFormat>
         <label>Team Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Teams</pluralLabel>
     <searchLayouts />
