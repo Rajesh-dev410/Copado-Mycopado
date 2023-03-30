@@ -3,6 +3,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Guest__c.Email_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Room__c.Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -13,6 +18,9 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Book__c-Book Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Guest__c-Guest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Room__c-Room Layout</layout>
