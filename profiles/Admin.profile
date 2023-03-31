@@ -11,11 +11,6 @@
         <field>Guest__c.First_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Guest__c.Last_Name__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Guest__c-Guest Layout</layout>
     </layoutAssignments>
