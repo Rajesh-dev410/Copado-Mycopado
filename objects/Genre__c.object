@@ -153,6 +153,14 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>Genre_No__c</fullName>
+        <displayFormat>G-{000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Genre No</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
     <label>Genre</label>
     <nameField>
         <label>Gen Name</label>
