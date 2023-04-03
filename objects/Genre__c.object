@@ -161,6 +161,15 @@
         <trackTrending>false</trackTrending>
         <type>AutoNumber</type>
     </fields>
+    <fields>
+        <fullName>emailid__c</fullName>
+        <externalId>false</externalId>
+        <label>emailid</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
     <label>Genre</label>
     <nameField>
         <label>Gen Name</label>
