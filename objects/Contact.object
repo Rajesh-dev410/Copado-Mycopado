@@ -333,14 +333,17 @@
     </fields>
     <fields>
         <fullName>AssistantName</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>AssistantPhone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Birthdate</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -361,10 +364,12 @@
     </fields>
     <fields>
         <fullName>Email</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Fax</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -382,6 +387,7 @@
     </fields>
     <fields>
         <fullName>HomePhone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -410,6 +416,7 @@
     </fields>
     <fields>
         <fullName>MobilePhone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -422,6 +429,7 @@
     </fields>
     <fields>
         <fullName>OtherPhone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -431,6 +439,7 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -440,11 +449,13 @@
     </fields>
     <fields>
         <fullName>ReportsToId</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Title</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <listViews>

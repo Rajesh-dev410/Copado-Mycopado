@@ -457,6 +457,7 @@
     </fields>
     <fields>
         <fullName>ManagerId</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Hierarchy</type>
     </fields>

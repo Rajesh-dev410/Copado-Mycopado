@@ -247,6 +247,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -290,10 +291,12 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Rating</fullName>
+        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
