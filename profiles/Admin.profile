@@ -8,7 +8,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Guest__c.First_Name__c</field>
+        <field>Room__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Room__c.Number__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
@@ -16,6 +21,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Guest__c-Guest Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Room__c-Room Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -32,7 +40,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Guest__c</object>
+        <object>Room__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>
