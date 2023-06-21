@@ -14,5 +14,4 @@
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>standard-Product2</tabs>
-    <tabs>Team__c</tabs>
 </CustomApplication>
