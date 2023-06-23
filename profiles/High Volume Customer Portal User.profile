@@ -2972,6 +2972,9 @@
         <layout>DelegatedAccount-External Managed Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Demo2__c-Demo2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Demo__c-Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3022,6 +3025,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Macro-Macro Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Myfirstchange__c-Myfirstchange Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Objects__c-Objects Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>

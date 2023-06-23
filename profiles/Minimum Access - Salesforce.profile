@@ -2927,6 +2927,9 @@
         <layout>DataUsePurpose-Data Use Purpose Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Demo2__c-Demo2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Demo__c-Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2937,6 +2940,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>LiveChatTranscriptWaiting-Chat Transcript %28Waiting%29 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Myfirstchange__c-Myfirstchange Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Objects__c-Objects Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ProcessException-Process Exception Layout</layout>
